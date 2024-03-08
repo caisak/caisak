@@ -1,16 +1,3 @@
-<div id="header" align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/caisa-kohlin/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  <a href="https://caisakohlin.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=hello&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=caisak&style=flat-square&color=blue" alt=""/>
-</div>
-
----
 ### 👩‍💻 About Me:
 I am a Front End Developer from Sweden <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
