@@ -1,16 +1,3 @@
-### 👩‍💻 About Me:
-I am a Front End Developer from Sweden <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
- 📱 I’m doing an internship as a Front End Developer developing a React Native app.
-
- 💙 My favorite stack is TypeScript and React.
-
- 🧶 In my free time I enjoy stand up paddling, reading and knitting.
-
- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caisa-kohlin/)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
